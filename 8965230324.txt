@@ -1,0 +1,1 @@
+{"name": "John", "surname": "Doe", "phone": "1234567890", "id_number": "987654321", "account_number": "8965230324", "balance": 500, "transactions": ["Deposited: 1000", "Withdrew: 500"]}
